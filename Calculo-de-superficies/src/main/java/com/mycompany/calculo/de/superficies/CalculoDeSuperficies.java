@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class CalculoDeSuperficies {
 
     public static void main(String[] args) {
+        System.out.println("********Calculador de superficies***********");
         
     int opc;
     double l1;
@@ -80,6 +81,7 @@ public class CalculoDeSuperficies {
                 
             default:
                  System.out.println("Opcion ingresada invalida");
+                 
         
         }
         
